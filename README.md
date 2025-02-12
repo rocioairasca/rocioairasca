@@ -4,8 +4,6 @@
 
 - 🔭 Actualmente soy estudiante de último año en `Analista en Sistemas de Computación` en `Insituto Leibnitz`
 
-<br>
-
 <p align="center">
 
 - 📋 Lenguajes:
